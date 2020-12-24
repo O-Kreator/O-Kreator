@@ -8,12 +8,12 @@
 ### Hello, I'm 'O-Kreator'. 👌
 - You can call me 'O-Kie'.
 - **Frontend web developer and also web designer.**
-- **I love JavaScript, TypeScript and React.** also studying Node.js, Express, and C. ✨
+- **I love JavaScript, TypeScript and React.** Also studying Node.js, Express, and C. ✨
 
 ### Currently studying in 42 Seoul. 📚
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/dongkang?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 ---
 
-### Hey, I have an Twitter! 🐤
+### Hey, I have a Twitter! 🐤
 - [@O-Kreator](https://twitter.com/O_Kreator)
