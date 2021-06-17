@@ -9,7 +9,7 @@
 - You can call me 'O-Kie'.
 - **Frontend developer and also web designer.**
 - **I love JavaScript and React.** Also studying TypeScript, Node.js, Express, Python and C. ✨
-- I'm Currently working for 'LFin'.
+- I'm Currently working for 'L Fin'.
 
 ---
 
